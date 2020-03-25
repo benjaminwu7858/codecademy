@@ -1,0 +1,24 @@
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: #660066;
+}
+table{
+  border: solid 1px #CC00CC;
+  margin: auto
+
+  
+}
+thead{
+  background-color:#d0aaf3;  
+}
+td{
+  border-top: 1px solid #bf09d0;
+  border-bottom: 1px solid #bf09d0;
+
+}
+.firstCol{
+  background-color: #ffffcc;
+}
